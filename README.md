@@ -1,4 +1,4 @@
-# inoutexperiment
+# in out experiment
 Material relevant relevant to `` Dynamic entry and exit decisions with noisy information: An experiment" by J.P Rabanal, O. Rud, M. Sharifova and J. Horowitz
 
 the file dataentryfinal.csv contains the data and bayesian predictions
